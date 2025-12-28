@@ -16,25 +16,28 @@
 
 ---
 
+## 💼 Portfolio & Projects
+
+<div align="center">
+
+### 🚀 Explore My Complete Work
+
+[![View Portfolio](https://img.shields.io/badge/🎨_View_Full_Portfolio-Explore_50+_Projects-4A90E2?style=for-the-badge&logoColor=white)](https://mdotahmad.vercel.app/work)
+
+<p><em>From e-commerce platforms to corporate websites and custom web applications</em></p>
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 I'm a **Full-Stack Developer** specializing in WordPress, React, and Next.js, with **5+ years** of experience delivering high-quality web solutions to **60+ businesses worldwide**. I combine freelancing agility with professional-grade precision to create scalable, performant digital experiences.
 
-```javascript
-const developer = {
-  name: "Muhammad Ahmad",
-  role: "Full-Stack Developer",
-  specialization: ["WordPress", "MERN Stack", "Next.js"],
-  experience: "5+ Years",
-  projectsCompleted: "50+",
-  clientRetention: "92%",
-  focus: ["Performance", "User Experience", "Clean Code"]
-};
-```
-
 **🌍 Global Collaboration** — Worked with founders and teams across 6+ time zones  
 **🎨 Design-Driven Development** — Smooth micro-interactions & intentional typography  
-**⚡ Performance First** — Optimized, scalable, and production-ready solutions
+**⚡ Performance First** — Optimized, scalable, and production-ready solutions  
+**📊 Track Record** — 50+ projects completed, 92% client retention rate
 
 ---
 
@@ -66,59 +69,6 @@ const developer = {
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Featured Projects & Portfolio
-
-<div align="center">
-
-### 🚀 Explore My Complete Work
-
-[![View Portfolio](https://img.shields.io/badge/🎨_View_Full_Portfolio-Explore_50+_Projects-4A90E2?style=for-the-badge&logoColor=white)](https://mdotahmad.vercel.app/work)
-
-<p><em>From e-commerce platforms to corporate websites and custom web applications</em></p>
-
-</div>
-
-### 🌟 Highlighted Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔍 [FindReunite](https://github.com/muhammad-ahmad66/findReunite)
-**Missing Persons Platform**  
-Advanced image recognition system with JWT authentication, helping reconnect families through technology.
-
-**Tech:** MERN Stack, JWT, Image Recognition
-
-</td>
-<td width="50%">
-
-#### 🎨 [Tint-Shade Generator](https://github.com/muhammad-ahmad66/tint-shade-generator)
-**Developer Tool**  
-Custom color generation tool for creating perfect tints and shades, streamlining design workflows.
-
-**Tech:** JavaScript, CSS, Color Theory
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=muhammad-ahmad66&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ahmad66&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=muhammad-ahmad66&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" height="165"/>
-
-</div>
 
 ---
 
@@ -171,23 +121,14 @@ Monthly support keeping sites updated, secure, and performing at their best.
 
 ## 🤝 Why Work With Me?
 
-```yaml
-Delivery Excellence:
-  avg_delivery_time: "3-4 weeks"
-  client_retention: "92% return for updates"
-  launch_confidence: "Zero surprises, fully tested"
+**⏱️ Delivery Excellence**  
+Average delivery time of 3-4 weeks with 92% client retention rate for updates. Zero surprises, fully tested before launch.
 
-Communication Style:
-  - Clear, regular updates via Loom, Slack, WhatsApp
-  - Twice-weekly progress reports
-  - Complete transparency throughout the process
+**💬 Communication Style**  
+Clear, regular updates via Loom, Slack, WhatsApp with twice-weekly progress reports and complete transparency throughout the process.
 
-What You Get:
-  - Clean, maintainable code
-  - Full ownership of source files
-  - Performance-first approach
-  - Ongoing support available
-```
+**✨ What You Get**  
+Clean, maintainable code with full ownership of source files, performance-first approach, and ongoing support available.
 
 ---
 
@@ -206,7 +147,7 @@ What You Get:
 [![Email Me](https://img.shields.io/badge/📧_Email-muhammadugv66@gmail.com-EA4335?style=for-the-badge)](mailto:muhammadugv66@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-ahmad66/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/muhammad_ugv)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923129819819)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923411080082)
 
 </div>
 
